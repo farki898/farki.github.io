@@ -33,5 +33,5 @@ fields:
     name: button_text
     label: Button Text
 pages:
-- _posts/why.md
+- _posts/2021-02-01-why.md
 - test.md
