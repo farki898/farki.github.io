@@ -11,6 +11,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - navigation-header-w-button
 - type: directory
   path: ''
   label: Pages
